@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bonobo-digital.apps.ruta8</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>0.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
